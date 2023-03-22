@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FoodMunchApp/static/css/main.0fb74265.css",
+    "main.js": "/FoodMunchApp/static/js/main.c857bceb.js",
+    "static/js/787.d3befce1.chunk.js": "/FoodMunchApp/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/FoodMunchApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FoodMunchApp/index.html",
+    "main.0fb74265.css.map": "/FoodMunchApp/static/css/main.0fb74265.css.map",
+    "main.c857bceb.js.map": "/FoodMunchApp/static/js/main.c857bceb.js.map",
+    "787.d3befce1.chunk.js.map": "/FoodMunchApp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb74265.css",
+    "static/js/main.c857bceb.js"
+  ]
+}
